@@ -1,0 +1,5 @@
+name: Hello World
+type: module
+description: A basic module for building a Hello World page
+core: 8.x
+package: Tutorial
